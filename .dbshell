@@ -1,0 +1,2 @@
+db.players.find()
+db
